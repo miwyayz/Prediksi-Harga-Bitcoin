@@ -1,9 +1,7 @@
 
-streamlit>=1.37
-mysql-connector-python
+streamlit
 pandas
 numpy
-xgboost
-scikit-learn
 joblib
 plotly
+xgboost
