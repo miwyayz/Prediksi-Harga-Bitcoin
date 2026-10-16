@@ -149,12 +149,6 @@ st.write(
     "model XGBoost dan data historis."
 )
 
-st.info(
-    "Aplikasi menggunakan data CSV yang tersimpan "
-    "di proyek. Data tidak diperbarui otomatis dari MySQL."
-)
-
-
 # ==========================================
 # 5. MEMUAT DATA DAN MODEL
 # ==========================================
